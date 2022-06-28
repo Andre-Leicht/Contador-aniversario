@@ -6,10 +6,8 @@ body{
     flex-direction: column;
     align-items: center;
     margin: 0%;
-    background-image: url(WhatsApp\ Image\ 2022-06-20\ at\ 13.35.10.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
+    background-image: url(WhatsApp\ Image\ 2022-06-27\ at\ 23.08.06.jpeg);
+    background-repeat: unset;
     color: aliceblue;
 }
 h1{
